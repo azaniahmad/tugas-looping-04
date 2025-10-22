@@ -1,6 +1,5 @@
 # Program Hitung Jumlah Data Genap dan Ganjil
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://cplusplus.com/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)](#)
 
@@ -97,7 +96,6 @@ tugas-looping-04/
 │
 ├── main.cpp                 # File utama program
 ├── README.md               # Dokumentasi project
-├── LICENSE                 # Lisensi MIT
 ├── laporan/
 │   ├── laporan.html       # Laporan dalam format HTML
 │   └── laporan.pdf        # Laporan dalam format PDF
@@ -229,16 +227,6 @@ Kami menyambut kontribusi dari siapa saja! Berikut cara untuk berkontribusi:
 - Menambahkan GUI (Graphical User Interface)
 - Menyimpan hasil output ke file
 - Menambahkan statistik tambahan (rata-rata, median, dll)
-
-## 📄 Lisensi
-
-Project ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
-**Ringkas MIT License:**
-- ✅ Bebas digunakan untuk tujuan komersial dan pribadi
-- ✅ Bebas memodifikasi dan mendistribusikan
-- ✅ Wajib mencantumkan lisensi dan copyright
-- ❌ Penulis tidak bertanggung jawab atas masalah yang mungkin timbul
 
 ## 👨‍💻 Penulis
 
